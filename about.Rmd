@@ -1,0 +1,16 @@
+---
+title: "Witek ten Hove"
+---
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="witektenhove"><a class="LI-simple-link" href='https://nl.linkedin.com/in/witektenhove?trk=profile-badge'>Witold (Witek) F. ten Hove</a></div>
+
+<hr>
+
+<div class="lead">
+Witek ten Hove is hoofddocent en onderzoeker bij de Hogeschool van Arnhem en Nijmegen en expert op het gebied van data- en webtechnologie. Hij is eigenaar van [Ten Hove Business Data Solutions](http://www.businessdatasolutions.nl/), een advies- en trainingsbureau dat organisaties helpt om maximale businesswaarde te realiseren met behulp van data driven innovaties.
+</div>
+<p>
+Door zijn ruime ervaring in de financiële wereld en de internationale handel en gedegen kennis van moderne web- en datatechnologieën, slaat hij makkelijk bruggen tussen technologie en business. Als open source evangelist en onderwijsprofessional gelooft hij sterk in de kracht van kennisdeling. Zijn missie is zoveel mogelijk (jonge) professionals te inspireren en de beloftes van digitale innovaties te helpen realiseren. 
+</p>

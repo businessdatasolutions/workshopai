@@ -1,0 +1,48 @@
+---
+title: "Masterclass Artificial Intelligence"
+---
+
+
+<div class="jumbotron">
+
+  
+<blockquote class="blockquote">
+
+<div class="h2">"AI is the new electricity"</div>
+
+<footer class="blockquote-footer">Andrew Ng / Co-Founder deeplearning.ai</footer>
+
+</blockquote>
+
+<hr>
+
+<div class="lead">Je hoort al jaren fantastische verhalen over Artificial Intelligence. Nu lijkt er echt iets aan de hand te zijn. Wat is er veranderd?</div>
+
+<div class="p">
+Op donderdagavond 24 september vertelt <a href="https://www.linkedin.com/in/witektenhove/" target="_blank">Witek ten Hove</a> - docent Big Data & Web Technologies aan de HAN - wat de stand der technologie op dit moment is en hoe je zelf met AI aan de slag kunt gaan.</div>
+  
+</div>
+
+## De democratisering van AI
+
+<div class="mb-8">
+Wellicht was je perceptie dat AI het exclusieve domein is van specialisten, van wetenschappers in dienst van topbedrijven als Google en IBM. Niks is minder waar.
+
+De kracht van de moderne intelligente systemen schuilt juist in hun eenvoud. Men is steeds opnieuw verrast hoe de complexiteit van de reële wereld in simpele regels kan worden gevat. Zelfs onze evolutie kan nagebootst worden door de computer verstoppertje met zichzelf te laten spelen. Miljoenen keren.
+</div>
+
+<hr>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//kopoLzvh5jY' frameborder='0' allowfullscreen></iframe></div>
+
+<hr>
+
+## Masterclass AI
+
+Machine Learning, Neurale Netwerken en Deep Learning. Wat schuilt er achter deze begrippen en wat hebben ze met elkaar te maken? Heb je ooit een machine zien leren? Heb je er wel eens één getraind?
+
+Leer binnen een uur hoe AI werkt. Train je eigen AI-model. Net zoals Google dat doet. Op je eigen laptop.
+
+
+
+

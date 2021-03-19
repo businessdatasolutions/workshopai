@@ -1,0 +1,18 @@
+---
+title: "Programma"
+---
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(DT)
+
+Tijd <- c("00:00u", "00:15u", "00:30u", "00:45u", "01:00u")
+Activiteit <- c("Introductie AI", "Uitleg systeem", "AI Playground", "Discussie", "Einde")
+
+data = data.frame(Tijd, Activiteit)
+knitr::kable(data)
+  
+```
+
+## Voorbereiding
+
+Het <a href="https://teachablemachine.withgoogle.com/">systeem</a> waarmee we gaan werken is volledig browser-based. Het is dus handig om een laptop met webcam mee te nemen waarop Chrome is geïnstalleerd. Zorg voor de zekerheid dat je een eigen internettoegang bij je hebt via de hotspot van je telefoon.
